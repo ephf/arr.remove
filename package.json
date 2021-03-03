@@ -1,0 +1,23 @@
+{
+  "name": "arr.remove-value",
+  "version": "1.0.0",
+  "description": "remove elements in array by value",
+  "main": "remove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/arr.remove.git"
+  },
+  "keywords": [
+    "remove",
+    "array"
+  ],
+  "author": "ephf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephf/arr.remove/issues"
+  },
+  "homepage": "https://github.com/ephf/arr.remove#readme"
+}

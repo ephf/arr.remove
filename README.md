@@ -3,13 +3,13 @@
 ### download:
 
 ```bash
-npm install arr.remove --save
+npm install arr.remove-value --save
 ```
 
 ### use: 
 
 ```javascript
-require('arr.remove');
+require('arr.remove-value');
 
 var array = [1, 2, 3, 4, 5];
 
